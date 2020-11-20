@@ -1,0 +1,101 @@
+svm
+              precision    recall  f1-score   support
+
+    circular       0.67      0.71      0.69        41
+  falciforme       0.93      0.62      0.74        42
+      outras       0.56      0.72      0.63        43
+
+    accuracy                           0.68       126
+   macro avg       0.72      0.68      0.69       126
+weighted avg       0.72      0.68      0.69       126
+bayes
+              precision    recall  f1-score   support
+
+    circular       0.56      0.95      0.70        41
+  falciforme       0.71      0.69      0.70        42
+      outras       0.87      0.30      0.45        43
+
+    accuracy                           0.64       126
+   macro avg       0.71      0.65      0.62       126
+weighted avg       0.71      0.64      0.61       126
+svm
+              precision    recall  f1-score   support
+
+    circular       0.45      0.71      0.55        41
+  falciforme       0.86      0.57      0.69        42
+      outras       0.55      0.43      0.48        42
+
+    accuracy                           0.57       125
+   macro avg       0.62      0.57      0.57       125
+weighted avg       0.62      0.57      0.57       125
+bayes
+              precision    recall  f1-score   support
+
+    circular       0.46      0.93      0.62        41
+  falciforme       0.76      0.62      0.68        42
+      outras       0.67      0.14      0.24        42
+
+    accuracy                           0.56       125
+   macro avg       0.63      0.56      0.51       125
+weighted avg       0.63      0.56      0.51       125
+svm
+              precision    recall  f1-score   support
+
+    circular       0.80      0.80      0.80        40
+  falciforme       0.76      0.81      0.79        43
+      outras       0.69      0.64      0.67        42
+
+    accuracy                           0.75       125
+   macro avg       0.75      0.75      0.75       125
+weighted avg       0.75      0.75      0.75       125
+bayes
+              precision    recall  f1-score   support
+
+    circular       0.72      0.97      0.83        40
+  falciforme       0.57      0.84      0.68        43
+      outras       1.00      0.19      0.32        42
+
+    accuracy                           0.66       125
+   macro avg       0.76      0.67      0.61       125
+weighted avg       0.76      0.66      0.61       125
+svm
+              precision    recall  f1-score   support
+
+    circular       0.55      0.70      0.62        40
+  falciforme       0.64      0.83      0.72        42
+      outras       0.68      0.30      0.42        43
+
+    accuracy                           0.61       125
+   macro avg       0.62      0.61      0.59       125
+weighted avg       0.62      0.61      0.58       125
+bayes
+              precision    recall  f1-score   support
+
+    circular       0.45      0.88      0.59        40
+  falciforme       0.70      0.76      0.73        42
+      outras       0.00      0.00      0.00        43
+
+    accuracy                           0.54       125
+   macro avg       0.38      0.55      0.44       125
+weighted avg       0.38      0.54      0.43       125
+svm
+              precision    recall  f1-score   support
+
+    circular       0.61      0.90      0.73        40
+  falciforme       0.66      0.74      0.70        42
+      outras       0.74      0.33      0.45        43
+
+    accuracy                           0.65       125
+   macro avg       0.67      0.65      0.63       125
+weighted avg       0.67      0.65      0.62       125
+bayes
+              precision    recall  f1-score   support
+
+    circular       0.51      0.95      0.66        40
+  falciforme       0.62      0.69      0.65        42
+      outras       0.67      0.05      0.09        43
+
+    accuracy                           0.55       125
+   macro avg       0.60      0.56      0.47       125
+weighted avg       0.60      0.55      0.46       125
+Result SVM: 0.6517079365079365Result Bayes: 0.5909714285714286
